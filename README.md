@@ -34,7 +34,7 @@ qqStepView.setMaxStep(8000)
         val animator = ObjectAnimator.ofFloat(0f, 7000f)
         animator.duration = 3000
         animator.interpolator = DecelerateInterpolator()
-        animator.addUpdateListener { animation -> //                animation.getValues();
+        animator.addUpdateListener { animation -> 
             val currentStep = animation.animatedValue as Float
             qqStepView.setCurrentStep(currentStep.toInt())
         }
