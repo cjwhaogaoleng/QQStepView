@@ -1,5 +1,5 @@
 # QQStepView
-模拟qq计步器做出来的view
+模拟qq计步器做出来的view，环形进度条
  ## 效果展示
 https://github.com/cjwhaogaoleng/QQStepView/assets/117556474/4928ed73-5f8e-4a7d-93c3-90547dd26ca9
 
